@@ -1,0 +1,2 @@
+method,reference,auroc_method,auroc_reference,auroc_diff,delong_z,delong_p,auprc_diff,auprc_boot_p
+federated_fedadam,centralized,0.8425101097832811,0.8717611481754467,-0.029251038392165585,-9.900649777423796,0.0,-0.06428762464496446,0.0

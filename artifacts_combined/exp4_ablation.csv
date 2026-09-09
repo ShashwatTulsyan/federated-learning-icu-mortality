@@ -1,0 +1,9 @@
+variant,auroc_mean,auroc_sd,auprc_mean,auprc_sd,n_seeds
++ personalisation,0.8499,0.0054,0.4449,0.02,5
+- FedBN,0.846,0.0009,0.4414,0.0007,5
+- calibration,0.846,0.0009,0.4414,0.0007,5
+- comorbidities,0.8448,0.0006,0.441,0.0011,5
+- imbalance handling,0.8442,0.001,0.4287,0.0017,5
+- tabular branch,0.8423,0.0008,0.4362,0.0027,5
+- vasopressor/vent,0.8423,0.0005,0.4371,0.0027,5
+full model,0.846,0.0009,0.4414,0.0007,5

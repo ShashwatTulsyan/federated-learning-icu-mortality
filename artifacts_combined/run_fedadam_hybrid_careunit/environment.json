@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-09-09T09:30:50",
+  "git_commit": null,
+  "python": "3.11.5",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "torch": "2.6.0+cu124",
+  "numpy": "2.4.6",
+  "pandas": "3.0.5",
+  "sklearn": "1.9.0",
+  "duckdb": "1.5.5",
+  "scipy": "1.17.1",
+  "cuda_available": true,
+  "gpu": "NVIDIA RTX A5000",
+  "gpu_capability": [
+    8,
+    6
+  ],
+  "mimic_version": "v3.1",
+  "seed": 42
+}

@@ -1,0 +1,6 @@
+level,auroc_mean,auroc_sd,auprc_mean,auprc_sd,n_seeds
+L1 vitals,0.7581,0.0011,0.2822,0.0014,5
+L2 vitals+labs,0.8248,0.0009,0.4082,0.0024,5
+L3 all series,0.8423,0.0008,0.4362,0.0027,5
+L4 +tabular,0.8448,0.0006,0.441,0.0011,5
+L5 +comorbidity,0.8457,0.0012,0.4406,0.002,5

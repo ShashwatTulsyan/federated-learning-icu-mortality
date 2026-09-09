@@ -1,0 +1,8 @@
+arm,vs,mean_diff,sd_diff,paired_p,wins,of,sig_uncorrected,sig_bonferroni
++ personalisation,full model,0.02917,0.041189998388290405,0.18850000202655792,2,5,False,False
+- FedBN,full model,0.0,,,0,5,False,False
+- calibration,full model,0.07744,0.0027199999894946814,0.0,5,5,True,True
+- comorbidities,full model,0.00013,4.999999873689376e-05,0.004800000227987766,5,5,True,True
+- imbalance handling,full model,0.00116,0.00011999999696854502,0.0,5,5,True,True
+- tabular branch,full model,0.00048,0.0001900000061141327,0.0052999998442828655,5,5,True,True
+- vasopressor/vent,full model,0.00039,0.00011999999696854502,0.0017000000225380063,5,5,True,True
