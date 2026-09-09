@@ -1,0 +1,23 @@
+# Core dependencies. Versions are minimum-tested, not exact pins --
+# for full bit-for-bit reproducibility, generate a locked version from your
+# actual working environment instead:
+#     pip freeze > requirements-lock.txt
+# and commit that alongside this file.
+
+torch>=2.0
+numpy>=1.24
+pandas>=2.0
+pyarrow>=12.0
+duckdb>=0.9
+scikit-learn>=1.3
+scipy>=1.10
+joblib>=1.3
+matplotlib>=3.7
+
+# Install with:
+#   pip install -r requirements.txt
+#
+# GPU note: install the CUDA-matched torch build for your hardware from
+# https://pytorch.org/get-started/locally/ instead of the plain PyPI wheel
+# if you have an NVIDIA GPU (this project was developed against an
+# RTX A5000, CUDA 12.4, Ampere sm_86).
