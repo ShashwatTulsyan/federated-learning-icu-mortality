@@ -235,9 +235,7 @@ are included.
 
 ## Citation
 
-```
-[citation once published]
-```
+
 
 Source databases:
 ```
