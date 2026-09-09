@@ -249,6 +249,6 @@ Pollard TJ, Johnson AEW, Raffa JD, Celi LA, Mark RG, Badawi O.
 
 ## License
 
-Code: [MIT / Apache-2.0 — choose one]. This license covers the code only;
-it does not extend any rights to the underlying datasets, which remain
-governed by their respective PhysioNet data use agreements.
+The code in this repository is released under the MIT License.
+
+The datasets used in this project are not included in this repository and remain subject to the terms and conditions of their respective PhysioNet data use agreements. The MIT License applies only to the original code contained in this repository.
